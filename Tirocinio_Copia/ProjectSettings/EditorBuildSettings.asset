@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Gui.unity
+    guid: 569e97cd3912f4feea900887c7939788
+  - enabled: 1
+    path: Assets/Scenes/Stanza.unity
+    guid: c73cc271d67b44d06aa92461e6e9dc11
   m_configObjects: {}
