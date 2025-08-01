@@ -1,0 +1,11 @@
+Model Information:
+* title:	Silla Dentista
+* source:	https://sketchfab.com/3d-models/silla-dentista-014b20d86ab84ec6a31c1e5d91cc48de
+* author:	elezetate (https://sketchfab.com/elezetate)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Silla Dentista" (https://sketchfab.com/3d-models/silla-dentista-014b20d86ab84ec6a31c1e5d91cc48de) by elezetate (https://sketchfab.com/elezetate) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
