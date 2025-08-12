@@ -6,6 +6,7 @@ public class SimpleMouseGrab : MonoBehaviour
     [Header("Controlli")]
     public KeyCode grabButton = KeyCode.Mouse0;   // afferra/rilascia
     public KeyCode rotateButton = KeyCode.Mouse1; // ruota mentre è preso
+    public bool IsGrabbed => grabbed;  // <— ci serve per sapere quando l'hai rilasciato
 
     [Header("Distanze")]
     public float maxGrabDistance = 8f;    // distanza massima per afferrare
